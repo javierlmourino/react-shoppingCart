@@ -1,0 +1,10 @@
+[
+    {"id": 1, "name": "Cookie", "price": 10.00, "imgUrl": "../public/imgs/cookie1.jpeg"},
+    {"id": 2, "name": "Cookie", "price": 10.00, "imgUrl": "../public/imgs/cookier2.jpeg"},
+    {"id": 3, "name": "Bootle THC-0 Mango", "price": 10.00, "imgUrl": "../public/imgs/mango.jpeg"},
+    {"id": 4, "name": "Bootle THC-0 Pear", "price": 10.00, "imgUrl": "../public/imgs/pear.jpeg"},
+    {"id": 5, "name": "Bootle THC-0 Raspberry", "price": 10.00, "imgUrl": "../public/imgs/rasp.jpeg"},
+    {"id": 6, "name": "Bootle THC-0 Strawberry", "price": 10.00, "imgUrl": "../public/imgs/strawberry.jpeg"},
+    {"id": 7, "name": "Vape Pen", "price": 10.00, "imgUrl": "../public/imgs/vape1.jpeg"},
+    {"id": 8, "name": "Vape Pen", "price": 10.00, "imgUrl": "../public/imgs/vape2.jpeg"}
+]
